@@ -10,16 +10,16 @@ const Hero: React.FC = () => {
             Kaan Kılınç
           </h1>
           <div className="text-xl md:text-2xl text-gray-300  mb-6 ">
-            <span className="inline-block">Frontend Developer</span>
+            <span className="inline-block"> Developer</span>
             <span className="mx-2 text-cyan-400">•</span>
-            <span className="inline-block">React Native Deneyimlisi</span>
+            <span className="inline-block">React Native Alanında Deneyimli</span>
           </div>
         </div>
 
         <div className="mb-8">
           <p className="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto leading-relaxed">
             Modern teknolojilerle yenilikçi dijital deneyimler yaratıyorum.
-            React, React Native ve modern web geliştirme konularında uzmanım.
+            React, React Native ve modern web geliştirme konularında ilerlemekteyim..
           </p>
         </div>
 
